@@ -1,4 +1,4 @@
-# DS PA1 polynomial calculator
+# DS PA1 Polynomial calculator
 
 The Programming Assignment 1 from NTU102-1 [DS](https://ceiba.ntu.edu.tw/course/a5436b/index.htm) course
 
