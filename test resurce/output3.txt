@@ -1,0 +1,11 @@
+Polynomial 1:7x^5+2x^4+2x+8
+Degree:5
+# of nonzero var: 3
+
+Polynomial 2:3x^6-7x^5+7x^3+12
+Degree:6
+# of nonzero var: 3
+
+Result Polynomial:3x^6+2x^4+7x^3+2x+20
+Degree:6
+# of nonzero var: 4

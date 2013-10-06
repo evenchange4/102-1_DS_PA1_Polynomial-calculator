@@ -1,0 +1,203 @@
+Polynomial 1:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 2:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 3:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 4:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 5:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 6:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 7:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 8:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 9:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 10:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 11:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 12:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 13:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 14:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 15:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 16:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 17:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 18:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 19:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 20:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 21:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 22:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 23:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 24:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 25:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 26:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 27:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 28:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 29:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 30:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 31:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 32:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 33:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 34:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 35:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 36:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 37:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 38:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 39:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 40:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 41:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 42:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 43:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 44:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 45:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 46:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 47:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 48:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 49:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 50:x^2
+Degree:2
+# of nonzero var: 1
+
+Result Polynomial:x^100
+Degree:100
+# of nonzero var: 1

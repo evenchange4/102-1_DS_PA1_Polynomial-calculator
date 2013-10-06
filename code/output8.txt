@@ -1,0 +1,2215 @@
+Polynomial 1:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 2:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 3:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 4:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 5:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 6:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 7:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 8:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 9:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 10:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 11:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 12:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 13:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 14:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 15:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 16:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 17:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 18:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 19:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 20:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 21:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 22:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 23:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 24:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 25:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 26:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 27:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 28:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 29:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 30:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 31:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 32:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 33:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 34:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 35:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 36:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 37:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 38:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 39:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 40:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 41:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 42:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 43:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 44:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 45:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 46:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 47:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 48:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 49:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 50:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 51:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 52:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 53:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 54:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 55:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 56:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 57:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 58:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 59:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 60:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 61:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 62:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 63:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 64:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 65:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 66:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 67:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 68:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 69:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 70:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 71:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 72:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 73:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 74:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 75:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 76:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 77:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 78:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 79:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 80:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 81:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 82:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 83:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 84:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 85:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 86:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 87:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 88:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 89:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 90:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 91:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 92:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 93:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 94:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 95:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 96:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 97:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 98:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 99:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 100:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 101:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 102:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 103:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 104:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 105:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 106:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 107:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 108:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 109:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 110:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 111:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 112:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 113:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 114:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 115:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 116:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 117:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 118:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 119:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 120:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 121:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 122:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 123:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 124:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 125:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 126:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 127:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 128:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 129:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 130:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 131:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 132:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 133:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 134:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 135:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 136:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 137:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 138:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 139:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 140:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 141:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 142:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 143:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 144:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 145:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 146:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 147:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 148:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 149:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 150:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 151:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 152:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 153:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 154:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 155:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 156:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 157:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 158:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 159:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 160:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 161:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 162:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 163:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 164:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 165:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 166:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 167:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 168:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 169:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 170:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 171:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 172:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 173:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 174:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 175:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 176:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 177:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 178:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 179:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 180:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 181:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 182:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 183:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 184:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 185:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 186:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 187:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 188:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 189:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 190:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 191:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 192:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 193:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 194:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 195:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 196:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 197:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 198:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 199:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 200:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 201:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 202:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 203:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 204:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 205:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 206:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 207:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 208:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 209:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 210:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 211:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 212:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 213:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 214:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 215:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 216:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 217:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 218:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 219:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 220:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 221:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 222:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 223:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 224:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 225:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 226:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 227:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 228:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 229:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 230:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 231:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 232:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 233:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 234:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 235:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 236:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 237:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 238:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 239:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 240:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 241:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 242:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 243:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 244:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 245:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 246:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 247:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 248:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 249:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 250:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 251:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 252:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 253:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 254:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 255:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 256:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 257:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 258:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 259:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 260:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 261:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 262:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 263:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 264:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 265:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 266:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 267:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 268:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 269:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 270:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 271:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 272:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 273:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 274:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 275:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 276:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 277:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 278:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 279:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 280:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 281:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 282:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 283:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 284:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 285:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 286:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 287:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 288:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 289:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 290:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 291:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 292:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 293:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 294:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 295:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 296:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 297:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 298:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 299:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 300:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 301:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 302:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 303:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 304:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 305:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 306:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 307:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 308:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 309:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 310:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 311:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 312:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 313:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 314:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 315:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 316:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 317:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 318:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 319:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 320:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 321:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 322:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 323:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 324:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 325:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 326:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 327:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 328:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 329:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 330:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 331:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 332:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 333:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 334:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 335:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 336:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 337:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 338:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 339:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 340:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 341:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 342:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 343:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 344:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 345:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 346:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 347:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 348:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 349:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 350:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 351:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 352:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 353:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 354:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 355:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 356:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 357:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 358:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 359:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 360:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 361:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 362:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 363:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 364:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 365:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 366:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 367:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 368:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 369:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 370:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 371:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 372:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 373:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 374:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 375:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 376:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 377:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 378:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 379:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 380:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 381:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 382:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 383:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 384:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 385:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 386:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 387:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 388:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 389:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 390:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 391:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 392:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 393:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 394:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 395:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 396:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 397:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 398:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 399:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 400:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 401:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 402:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 403:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 404:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 405:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 406:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 407:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 408:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 409:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 410:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 411:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 412:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 413:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 414:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 415:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 416:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 417:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 418:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 419:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 420:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 421:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 422:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 423:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 424:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 425:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 426:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 427:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 428:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 429:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 430:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 431:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 432:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 433:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 434:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 435:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 436:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 437:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 438:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 439:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 440:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 441:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 442:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 443:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 444:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 445:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 446:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 447:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 448:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 449:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 450:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 451:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 452:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 453:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 454:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 455:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 456:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 457:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 458:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 459:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 460:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 461:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 462:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 463:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 464:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 465:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 466:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 467:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 468:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 469:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 470:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 471:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 472:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 473:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 474:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 475:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 476:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 477:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 478:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 479:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 480:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 481:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 482:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 483:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 484:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 485:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 486:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 487:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 488:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 489:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 490:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 491:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 492:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 493:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 494:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 495:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 496:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 497:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 498:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 499:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 500:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 501:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 502:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 503:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 504:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 505:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 506:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 507:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 508:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 509:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 510:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 511:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 512:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 513:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 514:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 515:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 516:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 517:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 518:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 519:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 520:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 521:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 522:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 523:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 524:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 525:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 526:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 527:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 528:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 529:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 530:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 531:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 532:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 533:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 534:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 535:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 536:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 537:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 538:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 539:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 540:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 541:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 542:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 543:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 544:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 545:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 546:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 547:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 548:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 549:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 550:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 551:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 552:x^2
+Degree:2
+# of nonzero var: 1
+
+Polynomial 553:x^2
+Degree:2
+# of nonzero var: 1
+
+Result Polynomial:x^1106
+Degree:1106
+# of nonzero var: 1

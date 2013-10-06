@@ -1,0 +1,15 @@
+Polynomial 1:5x^3+7
+Degree:3
+# of nonzero var: 1
+
+Polynomial 2:8x^-3
+Degree:0
+# of nonzero var: 1
+
+Polynomial 3:-56x^-3
+Degree:0
+# of nonzero var: 1
+
+Result Polynomial:40
+Degree:0
+# of nonzero var: 0

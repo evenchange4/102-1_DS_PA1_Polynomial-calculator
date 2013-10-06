@@ -1,0 +1,15 @@
+Polynomial 1:3x^50000000+9x^10000000
+Degree:50000000
+# of nonzero var: 2
+
+Polynomial 2:2x^30000000+7
+Degree:30000000
+# of nonzero var: 1
+
+Polynomial 3:-18x^40000000
+Degree:40000000
+# of nonzero var: 1
+
+Result Polynomial:6x^80000000+21x^50000000+63x^10000000
+Degree:80000000
+# of nonzero var: 3

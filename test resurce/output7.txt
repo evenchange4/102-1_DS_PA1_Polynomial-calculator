@@ -1,0 +1,19 @@
+Polynomial 1:2x^2+5
+Degree:2
+# of nonzero var: 1
+
+Polynomial 2:6x^2-6x^-2+4x^-4
+Degree:2
+# of nonzero var: 3
+
+Polynomial 3:-3x
+Degree:1
+# of nonzero var: 1
+
+Polynomial 4:5x+1
+Degree:1
+# of nonzero var: 1
+
+Result Polynomial:40x^3-7x^2+22x+5-30x^-1-6x^-2+20x^-3+4x^-4
+Degree:3
+# of nonzero var: 7

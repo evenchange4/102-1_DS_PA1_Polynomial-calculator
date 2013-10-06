@@ -1,0 +1,11 @@
+Polynomial 1:2x^5+3x
+Degree:5
+# of nonzero var: 2
+
+Polynomial 2:2x^5+4x+7
+Degree:5
+# of nonzero var: 2
+
+Result Polynomial:4x^5+7x+7
+Degree:5
+# of nonzero var: 2
